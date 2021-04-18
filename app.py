@@ -14,7 +14,7 @@ st.set_page_config(
 st.title('Correspondance des Redirections 301')
 st.write("Correspondance automatique des 301 grâce au crawl Screaming Frog.")
 st.write("Fichiers nécessaires : Export CSV des 301 + Export CSV des inlinks vers 301")
-st.write("Demo : URL")
+st.write("➤ [Explications et démo en vidéo](https://www.loom.com/share/f65ef1c236e1426dbb1d547765724617)")
 st.write("By [@MichaelPinatton](https://twitter.com/michaelpinatton)")
 
 st.markdown('## ** ① Chargez le fichier CSV des 301 **') 
