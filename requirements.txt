@@ -1,1 +1,6 @@
-python pip install XlsxWriter
+pandas
+streamlit
+os
+base64
+io
+xlsxwriter
