@@ -1,1 +1,1 @@
-python -m pip install XlsxWriter
+python pip install XlsxWriter
