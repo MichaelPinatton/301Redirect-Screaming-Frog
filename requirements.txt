@@ -1,5 +1,4 @@
 pandas
 streamlit
-base64
 io
 xlsxwriter
