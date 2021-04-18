@@ -8,6 +8,7 @@ from io import BytesIO
 
 st.title('Redirections 301 - Screaming Frog')
 st.write("Correspondance automatique des 301")
+st.write("Ajout d'une phrase pour tester le push")
 st.write("Demo : URL")
 
 st.markdown('## ** ① Chargez le fichier CSV des 301 **') 
