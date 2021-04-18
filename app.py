@@ -5,10 +5,14 @@ import base64
 from io import BytesIO
 import xlsxwriter
 
+st.set_page_config(
+    page_title="Correspondance des Redirections 301", page_icon="🐶",
+)
+
 #Import CSV
 
-st.title('Redirections 301 - Screaming Frog')
-st.write("Correspondance automatique des 301")
+st.title('Correspondance des Redirections 301')
+st.write("Correspondance automatique des 301 grâce au crawl Screaming Frog.")
 st.write("Fichiers nécessaires : Export CSV des 301 + Export CSV des inlinks vers 301")
 st.write("Demo : URL")
 
