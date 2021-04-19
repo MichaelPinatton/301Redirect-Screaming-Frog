@@ -13,6 +13,7 @@ st.set_page_config(
 
 st.title('Correspondance des Redirections 301 - Screaming Frog')
 st.markdown('')
+st.markdown('')
 st.write("Correspondance automatique des 301 grâce au crawler Screaming Frog.")
 st.write("Fichiers nécessaires : Export CSV des 301 + Export CSV des inlinks vers 301")
 st.write("➤ [Explications et démo en vidéo](https://www.loom.com/share/f65ef1c236e1426dbb1d547765724617)")
