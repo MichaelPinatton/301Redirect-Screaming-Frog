@@ -6,7 +6,7 @@ from io import BytesIO
 import xlsxwriter
 
 st.set_page_config(
-    page_title="Correspondance des Redirections 301", page_icon="🐶",
+    page_title="Correspondance des Redirections 301 - Screaming Frog", page_icon="🐶",
 )
 
 #Import CSV
